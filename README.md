@@ -8,7 +8,7 @@ If you read about a JavaScript concept but can't solve a problem with it you hav
 
 Do you believe in "use it or lose it" ? Then, it's time to make use of what you know.
 
-About the piece:
+## About the piece:
 JsDrill is as the name implies a heads down kept in problem solving using JavaScript.
 It spans from beginner concepts to more advanced use of JavaScript.
 
