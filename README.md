@@ -1,6 +1,6 @@
 # JavaScript-Drill [![GitHub license](https://img.shields.io/github/license/SinachPat/JavaScript-Drill?logo=approved)](https://github.com/SinachPat/JavaScript-Drill/blob/main/LICENSE)
 
-<img src = "drill.svg">
+<img src = "drill-02.svg">
 ## Introduction
 You may just be getting started with JavaScript or you've been learning for some time now, this playground is for you to build your muscles. 
 If you read about a JavaScript concept but a problem with it you have not really learnt it.
