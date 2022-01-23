@@ -4,7 +4,7 @@
 
 ## Introduction
 You may just be getting started with JavaScript or you've been learning for some time now, this playground is for you to build your muscles. 
-If you read about a JavaScript concept but a problem with it you have not really learnt it.
+If you read about a JavaScript concept but can't solve a problem with it you have not really learnt it.
 
 Do you believe in "use it or lose it" ? Then, it's time to make use of what you know.
 
