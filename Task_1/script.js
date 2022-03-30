@@ -1,18 +1,15 @@
-//Is "else" required?
+// Write a function pow(x,n) that returns x in power n . Or, in other words, multiplies x by
+// itself n times and returns the result.
 
-function checkAge(age) {
-    (age > 18) ? true : confirm('Did parents allow you?');
+function pow(x, n) {
+    //We first store the value of x in a variable called result
+    let result = x;
+    //Then loop through the multiplication provided the condition inside the loop is met
+    for(let i = 1; i < n; i++) {
+      result *= x;
+    }
+    return result;
 }
 
-let finding = checkAge(13);
-console.log(finding);
-
-
-//&&
-
-function checkAge(age) {
-    return (age > 18) || confirm('Did parents allow you?');
-}
-
-//There is no difference between the both of them
-    
+let power = pow(3,2);
+console.log(power);
