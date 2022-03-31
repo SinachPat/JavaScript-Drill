@@ -11,6 +11,7 @@ h1 {
     font-size: 48px;
     text-align: center;
     background-color: rgb(1, 44, 44);
+    box-shadow: 2px 2px 40px rgba(0, 0, 0, 0.192);
     color: white;
     padding: 20px;
 }
